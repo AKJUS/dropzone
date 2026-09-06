@@ -1,3 +1,9 @@
+## 6.1.1
+
+### Patch Changes
+
+- [`4e13aab`](https://github.com/dropzone/dropzone/commit/4e13aabb7df94c8a24a4d232b82b2ad12ed8dd47) Thanks [@enyo](https://github.com/enyo)! - Vendor `just-extend` into the source and drop the dependency. Dropzone now installs with no dependencies at all; the option merging behaviour is unchanged.
+
 ## 6.1.0
 
 ### Minor Changes
